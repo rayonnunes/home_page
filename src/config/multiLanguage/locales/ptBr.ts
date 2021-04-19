@@ -1,0 +1,36 @@
+const ptBr = {
+  translations: {
+    "Welcome to React": "Bem Vindo ao React",
+    "Change to Portuguese": "Alterar idioma para português",
+    "Change to English": "Alterar idioma para inglês",
+    "Dark Mode": "Alterar para o Tema Escuro",
+    "Light Mode": "Alterar para o Tema Claro",
+    "Hello,": "Olá,",
+    "I am": "me chamo",
+    "My Work": "e trabalho como desenvolvedor front-end",
+    "Contact Me": "Entrar em Contato",
+    "Download CV": "Baixar Currículo",
+    "Professional": "Profissional",
+    "Works": "Com o que eu já Trabalhei",
+    "Redeinova": "Redeinova Soluções Inteligentes",
+    "May": "Maio de 2020",
+    "Current": "Atualmente",
+    "Junio": "Escritório de Advocacia Junior Aguiar",
+    "Aug": "Agosto de 2019",
+    "Jul": "Jul de 2020",
+    "Freela": "Trabalhos Independentes",
+    "Urologist": "Urologista",
+    "Sindsems": "Sindicato dos Servidores Públicos de Sobral",
+    "Checkout Github": "Confira mais sobre meus projetos e estudos no meu GitHub",
+    "Academy": "Acadêmico",
+    "Formation": "Minha Formação",
+    "Eng Comp": "Engenharia de Computação",
+    "Start College": "Ingresso 2015.1",
+    "UFC": "Universidade Federal do Ceará",
+    "Work in Progress": "Está demorando um pouco além do Esperado, esta formação será concluída em breve",
+    "About": "Sobre Mim",
+    "Skills": "Habilidades e Preferências",
+  }
+};
+
+export default ptBr;

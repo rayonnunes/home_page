@@ -1,0 +1,36 @@
+const en = {
+  translations: {
+    "Welcome to React": "Welcome to React and react-i18next",
+    "Change to Portuguese": "Change language to portuguese",
+    "Change to English": "Change language to english",
+    "Dark Mode": "Set Theme to Dark Mode",
+    "Light Mode": "Set Theme to Light Mode",
+    "Hello,": "Hello,",
+    "I am": "I'm",
+    "My Work": "and I work as a front-end developer",
+    "Contact Me": "Contact me",
+    "Download CV": "Download CV (Portuguese)",
+    "Professional": "Professional",
+    "Works": "What I've worked with",
+    "Redeinova": "Redeinova Smart Solutions",
+    "May": " May 2020",
+    "Current": "Currently",
+    "Junio": "Junior Aguiar's Law Office",
+    "Aug": "August 2019",
+    "Jul": "July 2020",
+    "Freela": "Freelances",
+    "Urologist": "Urologist",
+    "Sindsems": "Union of Public Employees of Sobral",
+    "Checkout Github": "Checkout more about my projects and studies on GitHub",
+    "Academy": "Academic",
+    "Formation": "My Graduation",
+    "Eng Comp": "Computer engineering",
+    "Start College": "Joined in 2015.1",
+    "UFC": "Federal University of Ceará",
+    "Work in Progress": "It's taking a little longer than expected, this graduation will be finished soon",
+    "About": "About Me",
+    "Skills": "Skills and Preferences",
+  }
+};
+
+export default en;
